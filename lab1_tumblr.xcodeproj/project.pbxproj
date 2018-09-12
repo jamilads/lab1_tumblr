@@ -82,7 +82,9 @@
 				DDAC338521489A4A007D2049 /* lab1_tumblrUITests */,
 				DDAC336421489A48007D2049 /* Products */,
 			);
+			indentWidth = 3;
 			sourceTree = "<group>";
+			tabWidth = 3;
 		};
 		DDAC336421489A48007D2049 /* Products */ = {
 			isa = PBXGroup;
